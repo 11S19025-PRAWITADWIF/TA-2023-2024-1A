@@ -1,0 +1,9 @@
+streamlit : framework website 
+pandas : manipulasi data untuk preprocessing
+numpy : fungsi matematika dasar 
+scikit-learn : library machine learning untuk preprocessing, parameter tuning
+plotly : visualisasi grafik dapat dizoom
+matplotlib : visualisasi bentuk grafik
+geopandas : data geospasial 
+contextily : menambahkan peta ke plot geospasial
+shapely : analisis geometri
